@@ -1,0 +1,32 @@
+Noda v1.5 (PrisMinSwitch)
+--------------------------------
+Canvas expanded to 225 megapixels
+Added multiple canvases + canvas dock
+Performance improvements
+Added a loading screen
+Added the help menu
+Added a recenter canvas button
+Added autosave
+
+Noda v1.0 (Prism)
+--------------------------------
+Canvas expanded to 25 megapixels (from 2)
+Added panning
+Added grid snap
+Added importing/exporting
+Added canvas reset
+Visuals improvements (context menu, settings)
+
+Noda Beta
+--------------------------------
+Added settings
+Added dark mode
+Added color themes
+Added saving to local storage
+
+Nodular Notes Alpha
+--------------------------------
+Added nodes
+Added right click menu
+Added resizing
+Added moving
