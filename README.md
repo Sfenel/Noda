@@ -1,4 +1,5 @@
 ## Visual note-taking on a (nearly) infinite canvas.
+![Noda Logo](Noda-logo.png)\
 Noda is a visual note-taking application that allows you to create and organize your thoughts and ideas on a (nearly) infinite canvas. This guide will briefly go over the features and limitations of Noda.
 #### Nodes
 Nodes are Noda's version of notes. They can be used to store text and image information anywhere on the canvas. To create a node, right click the canvas and hit the icon. Nodes can be moved using the handle at the top, and resized using the handle at the bottom right. To add images, use to paste from clipboard, to upload image from file, and to insert an image from URL. Adding an image to a node will replace that node completely, removing text you may have there. It is recommended to add images to blank nodes only. Nodes can be deleted using the button, and duplicated using the button.
